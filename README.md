@@ -1,5 +1,5 @@
 # cache-error
-error with spring cloud issue https://github.com/cache2k/cache2k/issues/199
+error with spring cache2k issue https://github.com/cache2k/cache2k/issues/199
 ## steps to produce the error 
 1. `mvn clean native:compile -Pnative`
 
