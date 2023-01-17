@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: cache-error
+  cache:
+    type: CACHE2K
